@@ -18,3 +18,6 @@ file 3.py
   dijalankan dengan memberikan parameter nilai sebanyak baris yang ingin ditampilkan pada fungsi gambarPola(nilai)
   contoh:
     gambarPola(10)
+ 
+file 4.html
+  dijalankan dengan menggunakan browser
